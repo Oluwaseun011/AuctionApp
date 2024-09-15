@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\bin\Debug\net8.0\RoomService.Domain.deps.json
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\bin\Debug\net8.0\RoomService.Domain.dll
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\bin\Debug\net8.0\RoomService.Domain.pdb
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\obj\Debug\net8.0\RoomService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\obj\Debug\net8.0\RoomService.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\obj\Debug\net8.0\RoomService.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\obj\Debug\net8.0\RoomService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\obj\Debug\net8.0\RoomService.Domain.dll
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\obj\Debug\net8.0\refint\RoomService.Domain.dll
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\obj\Debug\net8.0\RoomService.Domain.pdb
+C:\Users\User\source\repos\AuctionApp\RoomService.Domain\obj\Debug\net8.0\ref\RoomService.Domain.dll

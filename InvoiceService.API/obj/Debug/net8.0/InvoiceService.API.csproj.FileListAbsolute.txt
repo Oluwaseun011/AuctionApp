@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\AuctionApp\InvoiceService.API\obj\Debug\net8.0\InvoiceService.API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AuctionApp\InvoiceService.API\obj\Debug\net8.0\InvoiceService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AuctionApp\InvoiceService.API\obj\Debug\net8.0\InvoiceService.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AuctionApp\InvoiceService.API\obj\Debug\net8.0\InvoiceService.API.AssemblyInfo.cs
+C:\Users\User\source\repos\AuctionApp\InvoiceService.API\obj\Debug\net8.0\InvoiceService.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AuctionApp\InvoiceService.API\obj\Debug\net8.0\InvoiceService.API.MvcApplicationPartsAssemblyInfo.cache

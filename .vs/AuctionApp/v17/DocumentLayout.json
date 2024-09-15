@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AuctionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4BD88-03EB-4D76-B595-D3094A81A924}|InvoiceService.Infrastructure\\InvoiceService.Infrastructure.csproj|c:\\users\\user\\source\\repos\\auctionapp\\invoiceservice.infrastructure\\invoicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B4BD88-03EB-4D76-B595-D3094A81A924}|InvoiceService.Infrastructure\\InvoiceService.Infrastructure.csproj|solutionrelative:invoiceservice.infrastructure\\invoicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8394C30-CA47-4705-93D8-D61AE6547557}|RoomService.Application\\RoomService.Application.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.application\\commands\\createauction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8394C30-CA47-4705-93D8-D61AE6547557}|RoomService.Application\\RoomService.Application.csproj|solutionrelative:roomservice.application\\commands\\createauction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763745A7-7835-4ECB-94D7-406A51C2ADB2}|RoomService.API\\RoomService.API.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763745A7-7835-4ECB-94D7-406A51C2ADB2}|RoomService.API\\RoomService.API.csproj|solutionrelative:roomservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D137669-DB16-4858-980A-AA66221960B3}|BiddingService.Application\\BiddingService.Application.csproj|c:\\users\\user\\source\\repos\\auctionapp\\biddingservice.application\\commands\\placebidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D137669-DB16-4858-980A-AA66221960B3}|BiddingService.Application\\BiddingService.Application.csproj|solutionrelative:biddingservice.application\\commands\\placebidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8394C30-CA47-4705-93D8-D61AE6547557}|RoomService.Application\\RoomService.Application.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.application\\queries\\getauction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8394C30-CA47-4705-93D8-D61AE6547557}|RoomService.Application\\RoomService.Application.csproj|solutionrelative:roomservice.application\\queries\\getauction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8394C30-CA47-4705-93D8-D61AE6547557}|RoomService.Application\\RoomService.Application.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.application\\queries\\getauctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8394C30-CA47-4705-93D8-D61AE6547557}|RoomService.Application\\RoomService.Application.csproj|solutionrelative:roomservice.application\\queries\\getauctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.infrastructure\\persistence\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\persistence\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8394C30-CA47-4705-93D8-D61AE6547557}|RoomService.Application\\RoomService.Application.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.application\\repositories\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8394C30-CA47-4705-93D8-D61AE6547557}|RoomService.Application\\RoomService.Application.csproj|solutionrelative:roomservice.application\\repositories\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E549E969-5ABF-458F-A4AE-22884F033632}|SharedKernel\\SharedKernel.csproj|c:\\users\\user\\source\\repos\\auctionapp\\sharedkernel\\events\\ieventsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E549E969-5ABF-458F-A4AE-22884F033632}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\events\\ieventsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E549E969-5ABF-458F-A4AE-22884F033632}|SharedKernel\\SharedKernel.csproj|c:\\users\\user\\source\\repos\\auctionapp\\sharedkernel\\eventhandler\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E549E969-5ABF-458F-A4AE-22884F033632}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\eventhandler\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.infrastructure\\roomservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\roomservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.infrastructure\\grpc\\services\\grpcauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\grpc\\services\\grpcauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.infrastructure\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|c:\\users\\user\\source\\repos\\auctionapp\\roomservice.infrastructure\\extensions\\npgsqlconnectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64D1768-6512-41A9-8539-098EF9418F48}|RoomService.Infrastructure\\RoomService.Infrastructure.csproj|solutionrelative:roomservice.infrastructure\\extensions\\npgsqlconnectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\InvoiceService.Infrastructure\\InvoiceDbContext.cs",
+              "RelativeDocumentMoniker": "InvoiceService.Infrastructure\\InvoiceDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\InvoiceService.Infrastructure\\InvoiceDbContext.cs",
+              "RelativeToolTip": "InvoiceService.Infrastructure\\InvoiceDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:22:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateAuction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Application\\Commands\\CreateAuction.cs",
+              "RelativeDocumentMoniker": "RoomService.Application\\Commands\\CreateAuction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Application\\Commands\\CreateAuction.cs",
+              "RelativeToolTip": "RoomService.Application\\Commands\\CreateAuction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:12:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.API\\Program.cs",
+              "RelativeDocumentMoniker": "RoomService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.API\\Program.cs",
+              "RelativeToolTip": "RoomService.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:12:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAuctions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Application\\Queries\\GetAuctions.cs",
+              "RelativeDocumentMoniker": "RoomService.Application\\Queries\\GetAuctions.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Application\\Queries\\GetAuctions.cs",
+              "RelativeToolTip": "RoomService.Application\\Queries\\GetAuctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:10:56.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAuction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Application\\Queries\\GetAuction.cs",
+              "RelativeDocumentMoniker": "RoomService.Application\\Queries\\GetAuction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Application\\Queries\\GetAuction.cs",
+              "RelativeToolTip": "RoomService.Application\\Queries\\GetAuction.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:10:23.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceBidCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\BiddingService.Application\\Commands\\PlaceBidCommand.cs",
+              "RelativeDocumentMoniker": "BiddingService.Application\\Commands\\PlaceBidCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\BiddingService.Application\\Commands\\PlaceBidCommand.cs",
+              "RelativeToolTip": "BiddingService.Application\\Commands\\PlaceBidCommand.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAiwG4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:55:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEventSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\SharedKernel\\Events\\IEventSubscriber.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Events\\IEventSubscriber.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\SharedKernel\\Events\\IEventSubscriber.cs",
+              "RelativeToolTip": "SharedKernel\\Events\\IEventSubscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:50:20.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\SharedKernel\\EventHandler\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\EventHandler\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\SharedKernel\\EventHandler\\IEventHandler.cs",
+              "RelativeToolTip": "SharedKernel\\EventHandler\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:50:13.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\RoomService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\RoomService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\RoomService.Infrastructure.csproj",
+              "RelativeToolTip": "RoomService.Infrastructure\\RoomService.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T10:49:14.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuctionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Application\\Repositories\\IAuctionRepository.cs",
+              "RelativeDocumentMoniker": "RoomService.Application\\Repositories\\IAuctionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Application\\Repositories\\IAuctionRepository.cs",
+              "RelativeToolTip": "RoomService.Application\\Repositories\\IAuctionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:48:28.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuctionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Persistence\\Repositories\\AuctionRepository.cs",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\Persistence\\Repositories\\AuctionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Persistence\\Repositories\\AuctionRepository.cs",
+              "RelativeToolTip": "RoomService.Infrastructure\\Persistence\\Repositories\\AuctionRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:42:50.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GrpcAuctionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Grpc\\Services\\GrpcAuctionService.cs",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\Grpc\\Services\\GrpcAuctionService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Grpc\\Services\\GrpcAuctionService.cs",
+              "RelativeToolTip": "RoomService.Infrastructure\\Grpc\\Services\\GrpcAuctionService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:40:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "RoomService.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:37:48.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NpgsqlConnectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Extensions\\NpgsqlConnectionExtension.cs",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\Extensions\\NpgsqlConnectionExtension.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Extensions\\NpgsqlConnectionExtension.cs",
+              "RelativeToolTip": "RoomService.Infrastructure\\Extensions\\NpgsqlConnectionExtension.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:37:10.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MigrationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Extensions\\MigrationExtensions.cs",
+              "RelativeDocumentMoniker": "RoomService.Infrastructure\\Extensions\\MigrationExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AuctionApp\\RoomService.Infrastructure\\Extensions\\MigrationExtensions.cs",
+              "RelativeToolTip": "RoomService.Infrastructure\\Extensions\\MigrationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:32:45.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

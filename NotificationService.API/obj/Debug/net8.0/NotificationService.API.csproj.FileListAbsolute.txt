@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AuctionApp\NotificationService.API\obj\Debug\net8.0\NotificationService.API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AuctionApp\NotificationService.API\obj\Debug\net8.0\NotificationService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AuctionApp\NotificationService.API\obj\Debug\net8.0\NotificationService.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AuctionApp\NotificationService.API\obj\Debug\net8.0\NotificationService.API.AssemblyInfo.cs
+C:\Users\User\source\repos\AuctionApp\NotificationService.API\obj\Debug\net8.0\NotificationService.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AuctionApp\NotificationService.API\obj\Debug\net8.0\NotificationService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\AuctionApp\NotificationService.API\obj\Debug\net8.0\NotificationService.API.MvcApplicationPartsAssemblyInfo.cache

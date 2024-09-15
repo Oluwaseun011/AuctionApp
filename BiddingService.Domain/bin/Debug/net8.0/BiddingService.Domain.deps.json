@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BiddingService.Domain/1.0.0": {
+        "runtime": {
+          "BiddingService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BiddingService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

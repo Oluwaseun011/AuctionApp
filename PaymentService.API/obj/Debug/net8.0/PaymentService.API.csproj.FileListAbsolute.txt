@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\AuctionApp\PaymentService.API\obj\Debug\net8.0\PaymentService.API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AuctionApp\PaymentService.API\obj\Debug\net8.0\PaymentService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AuctionApp\PaymentService.API\obj\Debug\net8.0\PaymentService.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AuctionApp\PaymentService.API\obj\Debug\net8.0\PaymentService.API.AssemblyInfo.cs
+C:\Users\User\source\repos\AuctionApp\PaymentService.API\obj\Debug\net8.0\PaymentService.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AuctionApp\PaymentService.API\obj\Debug\net8.0\PaymentService.API.MvcApplicationPartsAssemblyInfo.cache

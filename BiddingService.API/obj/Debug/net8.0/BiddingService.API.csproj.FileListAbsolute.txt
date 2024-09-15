@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\AuctionApp\BiddingService.API\obj\Debug\net8.0\BiddingService.API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AuctionApp\BiddingService.API\obj\Debug\net8.0\BiddingService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AuctionApp\BiddingService.API\obj\Debug\net8.0\BiddingService.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AuctionApp\BiddingService.API\obj\Debug\net8.0\BiddingService.API.AssemblyInfo.cs
+C:\Users\User\source\repos\AuctionApp\BiddingService.API\obj\Debug\net8.0\BiddingService.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AuctionApp\BiddingService.API\obj\Debug\net8.0\BiddingService.API.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\AuctionApp\RoomService.Application\obj\Debug\net8.0\RoomService.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AuctionApp\RoomService.Application\obj\Debug\net8.0\RoomService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AuctionApp\RoomService.Application\obj\Debug\net8.0\Sentry.Attributes.cs
+C:\Users\User\source\repos\AuctionApp\RoomService.Application\obj\Debug\net8.0\RoomService.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AuctionApp\RoomService.Application\obj\Debug\net8.0\RoomService.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\AuctionApp\RoomService.Application\obj\Debug\net8.0\RoomService.Application.csproj.CoreCompileInputs.cache
